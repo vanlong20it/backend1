@@ -1,0 +1,13 @@
+.nav-control{
+    margin-bottom:20px;
+}
+.nav-control .edit-control{
+    margin-top:20px;
+}
+.food-list{
+    height:500px;
+    overflow-y:auto;
+}
+.information{
+    padding:50px 0px;
+}
